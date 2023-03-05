@@ -1,5 +1,4 @@
 # MediaPipeUnityRT
-Contain an archive with a python and a Unity project to send mediaPipe data in real time
 
 Media Pipe Unity Real Time 
 
