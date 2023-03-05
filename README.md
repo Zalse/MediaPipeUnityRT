@@ -2,10 +2,10 @@
 
 Media Pipe Unity Real Time 
 
-Pour lancer le code : 
+To launch the code : 
 
-1 : Installer les dépendances python nécessaire (Il y a un requirement.txt mais il comprend toutes les bibliothèques de mon venv
-   dont la plupart ne servent à rien et prennent beaucoup de places, mieux vaut ne l'utiliser que pour les version et ne pas tout installer)
-2 : Mettre le fichier Assets dans un projet Unity (Le mien était en 2022.1.5f1) et lancer le run Mode. Lancer également le
-  fichier python Python_MPURT/Projet/main.py 
-3 : Cliquer sur le bouton "connect to Unity" dans l'interface python 
+1 : Install the necessary python dependencies (There is a requirement.txt but it includes all the libraries of my venv
+   most of which are useless and take a lot of space, better to use it only to get the versions and not to install everything)
+2 : Put the Assets file in a Unity project (mine was in 2022.1.5f1) and launch the Mode run. Launch also the
+  python file Python_MPURT/Project/main.py 
+3 : Click on the "connect to Unity" button in the python interface 
